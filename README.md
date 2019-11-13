@@ -1,4 +1,6 @@
 # hello-world
 first project
+Hi Humans!
 
-good job!
+Sam here, I like basketball and math.
+I've been to Europe and Africa
